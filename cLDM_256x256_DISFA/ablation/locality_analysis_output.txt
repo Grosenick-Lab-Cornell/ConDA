@@ -1,0 +1,27 @@
+Train: 3872 Test: 968
+   delta  mean_distance  mean_rmse  count
+0      0            0.0   0.000000     54
+1      1            0.6   4.463520     54
+2      2            1.2   6.488112     54
+3      3            1.8   8.331499     54
+4      4            2.4   9.665245     54
+5      5            3.0  10.045935     54
+Loading pre-trained continuous conditional latent diffusion model >>>
+torch.Size([54, 3, 256, 256])
+PSNR: Mean ± Std: 39.05 ± 0.27
+SSIM: Mean ± Std: 0.96 ± 0.00
+torch.Size([54, 3, 256, 256])
+PSNR: Mean ± Std: 38.56 ± 1.27
+SSIM: Mean ± Std: 0.96 ± 0.02
+torch.Size([54, 3, 256, 256])
+PSNR: Mean ± Std: 37.53 ± 2.78
+SSIM: Mean ± Std: 0.94 ± 0.07
+torch.Size([54, 3, 256, 256])
+PSNR: Mean ± Std: 37.01 ± 2.86
+SSIM: Mean ± Std: 0.92 ± 0.07
+torch.Size([54, 3, 256, 256])
+PSNR: Mean ± Std: 35.84 ± 3.49
+SSIM: Mean ± Std: 0.90 ± 0.08
+torch.Size([54, 3, 256, 256])
+PSNR: Mean ± Std: 35.87 ± 3.53
+SSIM: Mean ± Std: 0.90 ± 0.09

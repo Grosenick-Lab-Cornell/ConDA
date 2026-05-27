@@ -1,0 +1,7 @@
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Large/raw NWB data file
+monkey_reach_neural_spiking/ldns/data/000128/sub-Jenkins/sub-Jenkins_ses-full_desc-train_behavior+ecephys.nwb
